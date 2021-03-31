@@ -35,3 +35,11 @@ h2{
   width: 45%;
 
 }
+#hobbies{
+  display: flex;
+}
+.hobbies{
+  width: 45%;
+
+
+}
