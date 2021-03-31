@@ -37,9 +37,14 @@ h2{
 }
 #hobbies{
   display: flex;
+  justify-content: space-around;
+ 
 }
 .hobbies{
   width: 45%;
-
-
+}
+.footer{
+  background-color:#D4AC0D ;
+  height: 80px;
+  text-align: center;
 }
