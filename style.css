@@ -47,4 +47,9 @@ h2{
   background-color:#D4AC0D ;
   height: 80px;
   text-align: center;
+  
+}
+.footer>p{
+  position: relative;
+  top: 35px;
 }
