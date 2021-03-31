@@ -1,0 +1,14 @@
+#main{
+ 
+}
+.header{
+  background-color: rgb(218, 208, 208);
+ display: flex;
+ padding-left: 90px;
+ padding-top: 90px;
+
+}
+
+.header.img{
+
+}
