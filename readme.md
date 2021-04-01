@@ -20,6 +20,6 @@ To access this project on your local files, you can clone it using these steps
 1. Git
 ### Live Site
 View [live](https://prod.liveshare.vsengsaas.visualstudio.com/join?DFDCDF8DD9B66C737A419149BFD01B0BFD91)
-### Licence
-This project is under the [MIT](LICENSE) licence
+### License
+This project is under the [MIT](LICENSE) license
 License format:
